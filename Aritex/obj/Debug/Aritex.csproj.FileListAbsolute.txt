@@ -1,0 +1,7 @@
+C:\Users\guill\source\repos\Aritex\Aritex\bin\Debug\Aritex.exe.config
+C:\Users\guill\source\repos\Aritex\Aritex\bin\Debug\Aritex.exe
+C:\Users\guill\source\repos\Aritex\Aritex\bin\Debug\Aritex.pdb
+C:\Users\guill\source\repos\Aritex\Aritex\obj\Debug\Aritex.csprojAssemblyReference.cache
+C:\Users\guill\source\repos\Aritex\Aritex\obj\Debug\Aritex.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\Aritex\Aritex\obj\Debug\Aritex.exe
+C:\Users\guill\source\repos\Aritex\Aritex\obj\Debug\Aritex.pdb
